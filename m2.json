@@ -7,7 +7,7 @@
 
 // 直播
 "lives":
-[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9nY3FpMTk3Ni94YmIvbWFpbi9saXZlL3piMDYyMi50eHQ="
+[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9nY3FpMTk3Ni94YmIvbWFpbi9saXZlL3piMDYyMi50eHQ="
 ]}]}],
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
