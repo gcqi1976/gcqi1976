@@ -1,25 +1,25 @@
 {
-    “蜘蛛”：“https://agit.ai/gcqi/gcqitvox01/raw/branch/master/Yoursmile.jar”,"spider":"https://agit.ai/gcqi/gcqitvox01/raw/branch/master/Yoursmile.jar",
-	"壁纸": "https://raw.iqiq.io/gcqi1976/xbb/main/W-2.png","wallpaper": "https://raw.iqiq.io/gcqi1976/xbb/main/W-2.png",
-	“生活”：[{"lives": [{
-		“组”：“重定向”，"group": "redirect",
-		“渠道”：[{"channels": [{
-			“名称”：“现场”，"name": "live",
-			“网址”：[“proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2djcWkvZ2NxaXR2b3gwMS9yYXcvYnJhbmNoL21hc3Rlci90di50eHQ="]"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2djcWkvZ2NxaXR2b3gwMS9yYXcvYnJhbmNoL21hc3Rlci90di50eHQ="]
-		}]}]
-	}],}],
+    “蜘蛛”：“https://agit.ai/gcqi/gcqitvox01/raw/branch/master/Yoursmile.jar”,"spider":"https://agit.ai/gcqi/gcqitvox01/raw/branch/master /你的微笑.jar",01/raw/branch/master/Yoursmile.jar”,"spider":"https://agit.ai/gcqi/gcqitvox01/raw/branch/master/Yoursmile.jar",
+	"壁纸": "https://raw.iqiq.io/gcqi1976/xbb/main/W-2.png","壁纸": "https://raw.iqiq.io/gcqi1976/xbb/main/W -2.png","壁纸": "https://raw.iqiq.io/gcqi1976/xbb/main/W-2.png","wallpaper": "https://raw.iqiq.io/gcqi1976/xbb/main/W-2.png",
+	“生活”：[{“生活”：[{[{"lives": [{
+		“组”：“重定向”，“组”：“重定向”，"group": "redirect",
+		“渠道”：[{“渠道”：[{[{"channels": [{
+			“名称”：“现场”，"name": "live","name": "live",
+			“网址”：[“proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2djcWkvZ2NxaXR2b3gwMS9yYXcvYnJhbmNoL21hc3Rlci90di50eHQ="]"urls": ["proxy://do=live&type=txt&ext=aHR0 cHM6Ly9hZ2l0LmFpL2djcWkvZ2NxaXR2b3gwMS9yYXcvYnJhbmNoL21hc3Rlci90di50eHQ="][“proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2djcWkvZ2NxaXR2b3gwMS9yYXcvYnJhbmNoL21hc3Rlci90di50eHQ="]"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2djcWkvZ2NxaXR2b3gwMS9yYXcvYnJhbmNoL21hc3Rlci90di50eHQ="]
+		}]
+	}],
 "sites": [
-{"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key"{"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable" :1},"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key"{"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable": 1},"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Zxzj","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Cokemv","name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key"{"key":"csp_Zxzj","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable": 1},"csp_Zxzj","name":"🐞在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key"{"key":"csp_Cokemv","name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1} ,"csp_Cokemv","name":"🐞Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key"{"key":"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable": 0},"csp_DiDuan","name":"🐞低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key"{"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide /vod/","searchable":1,"quickSearch":1},"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-{"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key"{"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/ ","searchable":0,"quickSearch":0},"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "哥哥妹妹","name": "哥哥妹妹","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 
@@ -31,8 +31,8 @@
 
 {"key":"*美少女源","name":"美少女源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*淫水机源","name":"饮水机源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*香奶儿源","name":"香奶儿源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key":"*白嫖资源","name":"白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key"{"key":"*香奶儿源","name":"香奶儿源","type":0,"api":"https://www.gdlsp.com/api/xml.php ","searchable":0,"quickSearch":0},"*香奶儿源","name":"香奶儿源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key"{"key":"*白嫖资源","name":"白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php", “可搜索”：0，“快速搜索”：0}，"*白嫖资源","name":"白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
 
 
 {"key":"*速度资源","name":"速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
