@@ -2,7 +2,15 @@
 淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 淳安电视台,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
 
+杭州综合,http://live.cooltv.top/tv/hz.php?id=16
+杭州明珠,http://live.cooltv.top/tv/hz.php?id=17
+杭州生活,http://live.cooltv.top/tv/hz.php?id=18
+杭州影视,http://live.cooltv.top/tv/hz.php?id=21
 
+杭州综合,http://www.372583307.top:4022/udp/233.50.201.173:5140
+杭州明珠,http://www.372583307.top:4022/udp/233.50.201.174:5140
+杭州生活,http://www.372583307.top:4022/udp/233.50.201.175:5140
+杭州影视,http://www.372583307.top:4022/udp/233.50.201.176:5140
 杭州综合,http://183.129.242.178:3333/tsfile/live/1015_1.m3u8
 杭州明珠,http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
 杭州生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
