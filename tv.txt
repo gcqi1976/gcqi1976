@@ -5,31 +5,7 @@
 杭州生活,http://www.372583307.top:4022/udp/233.50.201.175:5140
 杭州影视，http://www.372583307.top:4022/udp/233.50.201.176:5140
 杭州少儿体育，http://www.372583307.top:4022/udp/233.50.201.177:5140
-杭州综合,http://live.cooltv.top/tv/hz.php?id=16
-杭州明珠,http://live.cooltv.top/tv/hz.php?id=17
-杭州生活,http://live.cooltv.top/tv/hz.php?id=18
-杭州影视,http://live.cooltv.top/tv/hz.php?id=21
 
-杭州综合，http://www.372583307.top:4022/udp/233.50.201.173:5140
-杭州明珠,http://www.372583307.top:4022/udp/233.50.201.174:5140
-杭州生活,http://www.372583307.top:4022/udp/233.50.201.175:5140
-杭州影视，http://www.372583307.top:4022/udp/233.50.201.176:5140
-杭州综合,http://183.129.242.178:3333/tsfile/live/1015_1.m3u8
-杭州明珠,http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
-杭州生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
-杭州影院,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
-杭州少儿体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
-
-杭州综合，http://api2.52tb.xyz/info?id=441&token=20230218htjgzi
-杭州明珠,http://api2.52tb.xyz/info?id=442&token=20230218htjgzi
-杭州生活,http://api2.52tb.xyz/info?id=443&token=20230218htjgzi
-杭州影院,http://api2.52tb.xyz/info?id=444&token=20230218htjgzi
-杭州少儿体育,http://api2.52tb.xyz/info?id=445&token=20230218htjgzi
-杭州综合,http://117.148.179.157/PLTV/88888888/224/3221229307/index.m3u8?zzhed
-杭州明珠,http://117.148.179.157/PLTV/88888888/224/3221229310/index.m3u8?zzhed
-杭州生活,http://117.148.179.157/PLTV/88888888/224/3221229313/index.m3u8?zzhed
-杭州影院,http://117.148.179.157/PLTV/88888888/224/3221229377/index.m3u8?zzhed
-杭州少儿体育,http://117.148.179.157/PLTV/88888888/224/3221229316/index.m3u8?zzhed
 浙江钱江都市,http://hw-ml.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 浙江钱江都市,http://hw-ml.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
 浙江钱江都市,http://hw-ml.cztv.com/channels/lantian/channel02/360p.m3u8?zzhed
@@ -75,7 +51,7 @@
 余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 
-👶｜少儿,#genre#
+👶｜少儿,#流派#
 
 北京少儿,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
