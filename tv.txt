@@ -41,32 +41,32 @@
 浙江教科影院,http://hw-ml.cztv.com/channels/lantian/channel04/360p.m3u8?zzhed
 浙江民生休闲,http://hw-ml.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
 浙江民生休闲,http://hw-ml.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed
-浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
-数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
-数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8?zzhed
-绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
-绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
+浙江民生休闲,http://hw-ml.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed
+浙江新闻,http://hw-ml.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+浙江新闻,http://hw-ml.cztv.com/channels/lantian/channel07/720p.m3u8?zzhed
+浙江新闻,http://hw-ml.cztv.com/channels/lantian/channel07/360p.m3u8?zzhed
+浙江国际,http://hw-ml.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
+浙江国际,http://hw-ml.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed
+浙江国际,http://hw-ml.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
+数码时代,http://hw-ml.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
+数码时代,http://hw-ml.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+数码时代,http://hw-ml.cztv.com/channels/lantian/channel12/360p.m3u8?zzhed
+绍兴新闻综合，http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+绍兴新闻综合，http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 金华新闻综合,http://live.plus.jinhua.com.cn/xwzh/playlist.m3u8?zzhed
 金华教育科技,http://live.plus.jinhua.com.cn/jykj/playlist.m3u8?zzhed
 金华公共频道,http://live.plus.jinhua.com.cn/jjsh/playlist.m3u8?zzhed
-金华都市农村,http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8?zzhed
+金华都市乡村,http://live2.plus.jinhua.com.cn/dsnc/playlist.m3u8?zzhed
 舟山新闻综合,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 舟山群岛旅游,http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
 湖州新闻综合,http://live.plus.hugd.com/xwzhpd/sd/live.m3u8?zzhed
-湖州公共民生,http://live1.plus.hugd.com/ggpd1/sd/live.m3u8?zzhed
+湖州市民生,http://live1.plus.hugd.com/ggpd1/sd/live.m3u8?zzhed
 湖州文化娱乐,http://live.plus.hugd.com/whylpd/sd/live.m3u8?zzhed
 嘉兴新闻综合,http://pluslive.jiaxingren.com/xwzh/sd/live.m3u8?zzhed
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
-永康新闻综合,http://hlsv2.quklive.com/live/1625061424267104/index.m3u8?zzhed
+永康新闻综合，http://hlsv2.quklive.com/live/1625061424267104/index.m3u8?zzhed
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
@@ -84,11 +84,11 @@
 
 动画小天地,http://118.26.120.34:55336/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
 儿歌大全,http://118.26.120.23:55336/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+叉车星球，https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 
 14台少儿,http://111.40.196.30/PLTV/88888888/224/3221225573/index.m3u8?zyangd
-14台少儿,http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV-14.m3u8?zyangd
-14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyangd
+14台少儿,http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV-14.m3u8?zyyangd
+14台少儿,http://123.6.9.146/live/jz-cctv-14/live.m3u8?zyyangd
 奥特曼,http://118.26.120.35:55336/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
 宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
 宝宝课堂,http://118.26.120.23:55336/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
@@ -98,12 +98,12 @@
 
 猫和老鼠,http://118.26.120.23:55336/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
 名贞探柯南,http://118.26.120.23:55336/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
-南京少兒,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiansd
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 
 亲子启蒙,http://118.26.120.23:55336/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
 
-狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 童年经典,http://118.26.120.23:55336/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
 玩具乐园,http://118.26.120.37:55336/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
 小猪佩寄,http://118.26.120.23:55336/tslive/c53_lb_78_600_t10/c53_lb_78_600_t10.m3u8?key=0b292c335e5837e94a815c2c45ffe0057
@@ -111,18 +111,18 @@
 熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 
-雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
-浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+云朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+浙江少儿,http://hw-ml.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
+浙江少儿,http://hw-ml.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
+浙江少儿,http://hw-ml.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
+浙江少儿,http://yd-ml.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
+浙江少儿,http://hw-ml.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 
 💘中央,#genre#
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
+CCTV1，http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+CCTV2，http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+CCTV3，http://live.cooltv.top/tv/aishang.php?id=cctv3hd
+CCTV4，http://live.cooltv.top/tv/aishang.php?id=cctv4hd
 CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 CCTV5+,http://live.cooltv.top/tv/aishang.php?id=cctv5p
 CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
