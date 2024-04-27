@@ -1,35 +1,24 @@
-//https://raw.kkgithub.com/gcqi1976/gcqi1976/main/tv.txt//直播源复制地址http://mdxgh.tpddns.cn:9999/new/mdlive.txt
+//https://raw.kkgithub.com/gcqi1976/gcqi1976/main/tv.txt//直播源复制地址http://mdxgh.tpddns.cn:9999/new/mdlive.txt//直播源https://github.com/menglv/tv/tree/main
 
 🔫｜浙江,#genre#
 
-
-浙江教育,http://122.233.239.30:9999/rtp/233.50.201.134:5140
-浙江民生，http://122.233.239.30:9999/rtp/233.50.201.136:5140
-浙江新闻，http://122.233.239.30:9999/rtp/233.50.201.137:5140
-浙江少儿,http://122.233.239.30:9999/rtp/233.50.201.138:5140
-钱江频道,http://122.233.239.30:9999/rtp/233.50.201.132:5140
-杭州1综合，http://122.233.239.30:9999/rtp/233.50.201.173:5140
-杭州2明珠,http://122.233.239.30:9999/rtp/233.50.201.174:5140
-杭州3生活,http://122.233.239.30:9999/rtp/233.50.201.175:5140
-杭州4影视，http://122.233.239.30:9999/rtp/233.50.201.176:5140
-杭州5青少,http://122.233.239.30:9999/rtp/233.50.201.177:5140
-杭州导视，http://122.233.239.30:9999//rtp/233.50.201.182:5140
-极速汽车，http://122.233.239.30:9999/rtp/233.50.201.208:5140
-宁波卫视1，http://122.233.239.30:9999/rtp/233.50.201.168:5140
-宁波TV2，http://122.233.239.30:9999/rtp/233.50.201.178:5140
-宁波TV3，http://122.233.239.30:9999/rtp/233.50.201.179:5140
-宁波TV4，http://122.233.239.30:9999/rtp/233.50.201.180:5140
-宁波TV5，http://122.233.239.30:9999/rtp/233.50.201.181:5140
-温州新闻,http://122.233.239.30:9999/rtp/233.50.201.87:5140
-衢州新闻,http://122.233.239.30:9999/rtp/233.50.201.155:5140
-绍兴新闻,http://122.233.239.30:9999/rtp/233.50.201.156:5140
-台州1,http://122.233.239.30:9999/rtp/233.50.201.157:5140
-湖州公共，http://122.233.239.30:9999/rtp/233.50.201.158:5140
-金华新闻,http://122.233.239.30:9999/rtp/233.50.201.161:5140
-丽水新闻,http://122.233.239.30:9999/rtp/233.50.201.162:5140
-嘉兴新闻,http://122.233.239.30:9999/rtp/233.50.201.163:5140
-桐乡新闻,http://122.233.239.30:9999/rtp/233.50.201.169:5140
-杭州导视，http://122.233.239.30:9999/rtp/233.50.201.182:5140
+淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed#https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+嵊州新闻综合,https://hlsv2.quklive.com/live/1626935015913208/index.m3u8?zzhed
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 
 👶｜少儿,#genre#
 狮子王国,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
