@@ -1205,7 +1205,7 @@ CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
 大话西游,http://43.138.170.29:35455/yy/1382851590
 经典鬼片2,http://43.138.170.29:35455/yy/1355641195
 武侠港片,http://43.138.170.29:35455/yy/1451866697
-愉快观影,#genre#
+🎬 | 愉快观影,#genre#
 第二十条TH,https://vip.ffzy-play2.com/20240215/59562_169d8bd2/2000k/hls/mixed.m3u8
 热辣滚烫TH,https://ikcdn01.ikzybf.com/20240213/qeySwP3F/2000kb/hls/index.m3u8
 飞驰人生2TH,https://v.gsuus.com/play/7e5k0kqb/index.m3u8
@@ -1814,7 +1814,7 @@ MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS0
 醉千年李袁杰,http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4?pd=19&vt=1
 左手指月,https://vdse.bdstatic.com//b35227847ccb42d48ea6414d47087ce9.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A26%3A59Z%2F-1%2Fhost
 sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-斗鱼音乐,http://epg.112114.xyz/douyu/3870925
+🎼 | 斗鱼音乐,http://epg.112114.xyz/douyu/3870925
 音乐石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
 新歌速递,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
 虎牙新歌,http://txtest-xp2p.p2p.huya.com/src/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1.xs
