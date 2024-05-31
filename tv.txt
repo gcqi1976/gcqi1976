@@ -2,7 +2,7 @@
 
 🔫｜浙江,#genre#
 
-淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed#https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8
+淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed#https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 杭州1综合,http://183.130.9.17:8889/rtp/233.50.201.173:5140
 杭州2明珠,http://183.130.9.17:8889/rtp/233.50.201.174:5140
 杭州3生活,http://183.130.9.17:8889/rtp/233.50.201.175:5140
