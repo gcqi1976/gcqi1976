@@ -29,6 +29,8 @@
 杭州导视,http://120.55.49.231:3095/rtp/233.50.201.182:5140
 杭州导视,http://183.158.169.240:9999/rtp/233.50.201.182:5140$1920x1080
 杭州导视,http://115.234.195.145:8808/rtp/233.50.201.182:5140$1920x1080
+淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
+淳安电视台,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$1920x1080
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8$1920x1080
 浙江经济,http://115.230.189.122:9999/rtp/233.50.201.133:5140$1920x1080
@@ -608,6 +610,25 @@
 
 
 💘中央,#genre#
+CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1
+CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2
+CCTV3,http://tvbox6.icu/tv/migu.php?id=cctv3
+CCTV4,http://tvbox6.icu/tv/migu.php?id=cctv4
+CCTV4美洲,http://tvbox6.icu/tv/migu.php?id=cctv4a
+CCTV4欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o
+CCTV5,http://tvbox6.icu/tv/migu.php?id=cctv5
+CCTV5+,http://tvbox6.icu/tv/migu.php?id=cctv5p
+CCTV6,http://tvbox6.icu/tv/migu.php?id=cctv6
+CCTV7,http://tvbox6.icu/tv/migu.php?id=cctv7
+CCTV8,http://tvbox6.icu/tv/migu.php?id=cctv8
+CCTV9,http://tvbox6.icu/tv/migu.php?id=cctv9
+CCTV10,http://tvbox6.icu/tv/migu.php?id=cctv10
+CCTV11,http://tvbox6.icu/tv/migu.php?id=cctv11
+CCTV12,http://tvbox6.icu/tv/migu.php?id=cctv12
+CCTV13,http://tvbox6.icu/tv/migu.php?id=cctv13
+CCTV14,http://tvbox6.icu/tv/migu.php?id=cctv14
+CCTV15,http://tvbox6.icu/tv/migu.php?id=cctv15
+CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17
 CCTV1,http://ygbh666.cn/aikmigu.php?id=cctv1
 CCTV2,http://ygbh666.cn/aikmigu.php?id=cctv2
 CCTV3,http://ygbh666.cn/aikmigu.php?id=cctv3
