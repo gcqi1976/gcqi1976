@@ -1,77 +1,130 @@
 //https://raw.kkgithub.com/gcqi1976/gcqi1976/main/tv.txt//直播源复制地址http://mdxgh.tpddns.cn:9999/new/mdlive.txt//直播源https://github.com/menglv/tv/tree/main,http://rihou.cc:555/gggg.nzk
 
-🔫｜浙江,#genre#
 
-浙江钱江,http://61.163.58.195:1718/zhejiang.php?id=zjqj
+浙江💓频道,#genre#
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江钱江,http://120.55.49.231:3095/rtp/233.50.201.132:5140
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-3.m3u8
+浙江钱江,http://zhfivel02.cztv.com/channel02/1080p.m3u8?auth_key=2524708799-0-0-2f7bb420bfd1d218b9c7b07c0ac1ba2f
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江生活,http://60.189.43.82:9999/rtp/233.50.201.133:5140
+浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-4.ctv
+浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-5.ctv
+浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-3.ctv
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/720p.m3u8
+浙江钱江,http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8147c890428975655007afb4cc
+浙江钱江,http://www.li0580.top:4022/udp/233.50.201.28:5140
+浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+浙江钱江,http://www.li0580.top:4022/udp/233.50.201.132:5140
+浙江钱江,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/smil/index.m3u8?fmt=ts2hls
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-1.ctv
+浙江生活,http://www.li0580.top:4022/udp/233.50.201.133:5140
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-10.m3u8
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-3.ctv
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-4.ctv
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-5.ctv
-浙江生活,http://122.234.44.141:8888/rtp/233.50.201.133:5140
-浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-2.ctv
-浙江生活,http://61.163.58.195:1718/zhejiang.php?id=zjjjsh
+浙江生活,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/smil/index.m3u8?fmt=ts2hls
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-14.m3u8
+浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
+浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江生活,http://ls.qingting.fm/live/1099.m3u8
+浙江生活,http://zhfivel02.cztv.com/channel03/1080p.m3u8?auth_key=2524708799-0-0-76c0751e0f656453baf39803124fc08a
+浙江生活,http://120.55.49.231:3095/rtp/233.50.201.133:5140
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教育,http://60.189.43.82:9999/rtp/233.50.201.134:5140
-浙江教育,http://122.234.44.141:8888/rtp/233.50.201.134:5140
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江新闻,http://61.163.58.195:1718/zhejiang.php?id=zjxw
-浙江新闻,http://122.234.44.141:8888/rtp/233.50.201.137:5140
-浙江新闻,http://60.189.43.82:9999/rtp/233.50.201.137:5140
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-7.ctv
+浙江生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-8.ctv
+浙江生活,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
+浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-4.ctv
+浙江生活,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
+浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
+浙江教育,http://120.55.49.231:3095/rtp/233.50.201.134:5140
+浙江教育,http://www.li0580.top:4022/udp/233.50.201.134:5140
+浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+浙江新闻,http://zwebl02.cztv.com/live/channel071080P.m3u8?auth_key=2524708799-0-0-e3b50ca59d2c0883d5386d8bc4cdefbc
+浙江新闻,http://120.55.49.231:3095/rtp/233.50.201.137:5140
+浙江新闻,http://www.li0580.top:4022/udp/233.50.201.34:5140
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-10.ctv
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-4.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
+浙江新闻,http://zhfivel02.cztv.com/channel07/1080p.m3u8?auth_key=2524708799-0-0-4af48ba83e791a300595dd0b2bb30e6e
+浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-7.m3u8
+浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-1.m3u8
+浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-5.m3u8
+浙江新闻,http://www.li0580.top:4022/udp/233.50.201.137:5140
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-11.m3u8
+浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
+浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-2.ctv
+浙江新闻,http://www.li0580.top:4022/udp/233.50.201.80:5140
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-1.ctv
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv
+浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv
+浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-2.ctv
-浙江少儿,http://122.234.44.141:8888/rtp/233.50.201.138:5140
-浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-1.m3u8
-浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-12.ctv
-杭州综合,http://kxrj.site:998/123/mg.php?id=hzzh
-杭州综合,http://www.jeremyoto.com:82/rtp/233.50.201.173:5140
-杭州综合,http://ttkx.live:55/lib/aikan.php?id=hzzh
-杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-2.ctv
-杭州综合,http://www.flyskyman.cn:4022/rtp/233.50.201.173:5140
-杭州综合,https://live.hoolo.tv/hztv1/playlist.m3u8?auth_key=1725344664-0-0-02346d8b57d09cfe89b8d45e26a64503
-杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-3.ctv
-杭州明珠,http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
-杭州明珠,http://nas.mfparking.com:4022/udp/233.50.201.174:5140
-杭州明珠,http://kxrj.site:998/123/mg.php?id=hzmz
-杭州明珠,http://www.flyskyman.cn:4022/rtp/233.50.201.174:5140
-杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-1.ctv
-杭州明珠,http://ttkx.live:55/lib/aikan.php?id=hzmz
-杭州生活,http://www.jeremyoto.com:82/rtp/233.50.201.175:5140
-杭州生活,http://kxrj.site:998/123/mg.php?id=hzsh
-杭州生活,http://ttkx.live:55/lib/aikan.php?id=hzsh
-杭州生活,http://www.flyskyman.cn:4022/rtp/233.50.201.175:5140
-杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-3.ctv
-杭州影视,http://kxrj.site:998/123/mg.php?id=hzys
-杭州影视,http://ttkx.live:55/lib/aikan.php?id=hzys
-杭州影视,http://www.flyskyman.cn:4022/rtp/233.50.201.176:5140
-杭州影视,https://stream1.freetv.fun/hang-zhou-ying-shi-3.ctv
-杭州影视,http://www.jeremyoto.com:82/rtp/233.50.201.176:5140
-杭州青少,http://www.flyskyman.cn:4022/rtp/233.50.201.177:5140
+浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
 杭州青少,http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
-杭州导视,http://60.189.43.82:9999//rtp/233.50.201.182:5140
-杭州导视,http://122.234.44.141:8888//rtp/233.50.201.182:5140
-杭州导视,http://122.234.44.141:8888/rtp/233.50.201.182:5140
-杭州导视,http://60.189.43.82:9999/rtp/233.50.201.182:5140
-杭州导视,http://www.flyskyman.cn:4022/rtp/233.50.201.182:5140
+杭州青少,http://www.li0580.top:4022/udp/233.50.201.177:5140
+杭州青少,http://120.55.49.231:3095/rtp/233.50.201.177:5140
+杭州青少,http://www.flyskyman.cn:4022/rtp/233.50.201.177:5140
+杭州导视,http://120.55.49.231:3095/rtp/233.50.201.182:5140
 杭州导视,http://www.jeremyoto.com:82/rtp/233.50.201.182:5140
-浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-9.m3u8
-浙江民生休闲,http://60.189.43.82:9999/rtp/233.50.201.136:5140
-浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-3.ctv
-浙江民生休闲,http://122.234.44.141:8888/rtp/233.50.201.136:5140
-浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.ctv
-浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-8.ctv
-浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-4.ctv
+杭州导视,http://www.li0580.top:4022/udp/233.50.201.182:5140
+杭州导视,http://www.flyskyman.cn:4022/rtp/233.50.201.182:5140
+杭州生活咪咕,https://stream1.freetv.fun/hang-zhou-sheng-huo-4.ctv
+杭州综合咪咕,http://www.li0580.top:4022/udp/233.50.201.173:5140
+浙江民生休闲,http://120.55.49.231:3095/rtp/233.50.201.136:5140
+杭州生活咪咕,http://www.li0580.top:4022/udp/233.50.201.175:5140
+杭州生活咪咕,http://120.55.49.231:3095/rtp/233.50.201.175:5140
+杭州生活咪咕,https://stream1.freetv.fun/hang-zhou-sheng-huo-1.ctv
+杭州综合咪咕,http://goo.bkpcp.top/mg/hzzh
+杭州综合咪咕,http://www.flyskyman.cn:4022/rtp/233.50.201.173:5140
+杭州生活咪咕,https://stream1.freetv.fun/hang-zhou-sheng-huo-3.ctv
+杭州生活咪咕,https://stream1.freetv.fun/hang-zhou-sheng-huo-5.ctv
+杭州少体咪咕,http://goo.bkpcp.top/mg/hzse
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.m3u8
+杭州明珠咪咕,http://goo.bkpcp.top/mg/hzmz
+杭州明珠咪咕,http://www.flyskyman.cn:4022/rtp/233.50.201.174:5140
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+杭州综合咪咕,https://stream1.freetv.fun/hang-zhou-zong-he-3.ctv
+杭州影视咪咕,http://www.li0580.top:4022/udp/233.50.201.176:5140
+浙江民生休闲,http://www.li0580.top:4022/udp/233.50.201.32:5140
+杭州综合咪咕,https://stream1.freetv.fun/hang-zhou-zong-he-4.ctv
+杭州生活咪咕,https://stream1.freetv.fun/hang-zhou-sheng-huo-2.ctv
+浙江民生休闲,http://www.li0580.top:4022/udp/233.50.201.136:5140
+杭州影视咪咕,http://goo.bkpcp.top/mg/hzys
+杭州明珠咪咕,http://www.li0580.top:4022/udp/233.50.201.174:5140
+浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-9.m3u8
+浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-2.m3u8
+杭州综合咪咕,https://stream1.freetv.fun/hang-zhou-zong-he-2.ctv
+杭州影视咪咕,https://stream1.freetv.fun/hang-zhou-ying-shi-4.ctv
+杭州影视咪咕,http://120.55.49.231:3095/rtp/233.50.201.176:5140
+杭州明珠咪咕,http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
+杭州影视咪咕,https://stream1.freetv.fun/hang-zhou-ying-shi-2.ctv
+杭州综合咪咕,http://www.jeremyoto.com:82/rtp/233.50.201.173:5140
+杭州综合咪咕,http://120.55.49.231:3095/rtp/233.50.201.173:5140
+浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-5.m3u8
+杭州明珠咪咕,http://120.55.49.231:3095/rtp/233.50.201.174:5140
+杭州生活咪咕,http://goo.bkpcp.top/mg/hzsh
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
+浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-11.m3u8
+杭州生活咪咕,http://www.jeremyoto.com:82/rtp/233.50.201.175:5140
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+杭州影视咪咕,http://www.jeremyoto.com:82/rtp/233.50.201.176:5140
+杭州明珠咪咕,https://stream1.freetv.fun/hang-zhou-ming-zhu-1.ctv
+杭州影视咪咕,http://www.flyskyman.cn:4022/rtp/233.50.201.176:5140
+杭州明珠咪咕,https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv
+杭州生活咪咕,http://www.flyskyman.cn:4022/rtp/233.50.201.175:5140
 
 
 
