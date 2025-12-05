@@ -1,6 +1,6 @@
 //https://raw.kkgithub.com/gcqi1976/gcqi1976/main/tv.txt//直播源复制地址http://mdxgh.tpddns.cn:9999/new/mdlive.txt//直播源https://github.com/menglv/tv/tree/main,http://rihou.cc:555/gggg.nzk
-
-
+💓频道,#genre#
+钱江,https://wget.la/https://raw.githubusercontent.com/gcqi1976/2022/main/d.mp4
 浙江💓频道,#genre#
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 浙江钱江,http://120.55.49.231:3095/rtp/233.50.201.132:5140
