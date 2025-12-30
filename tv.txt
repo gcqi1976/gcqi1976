@@ -78,7 +78,8 @@ CCTV-4 中文国际 美洲,https://migu.188766.xyz/?migutoken=277eea70169602ea8a
 兵团卫视,https://migu.188766.xyz/?migutoken=ec94a07385ba8d92c027b68e5d1c70d3&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,https://migu.188766.xyz/?migutoken=7ce7bd41fb5748a0f565ef6462cd193a&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 北京卫视4K,https://migu.188766.xyz/?migutoken=de5987457f769438a3e28d376b4edc9f&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-深圳卫视4K,https://migu.188766.xyz/?migutoken=60a669b60bd54d3ae0eca306bbf496a9&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1安徽卫视,http://220.176.218.76:9000/udp/239.252.220.83:5140
+深圳卫视4K,https://migu.188766.xyz/?migutoken=60a669b60bd54d3ae0eca306bbf496a9&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+安徽卫视,http://220.176.218.76:9000/udp/239.252.220.83:5140
 北京卫视,http://220.176.218.76:9000/udp/239.252.219.206:5140
 兵团卫视,http://220.176.218.76:9000/udp/239.252.219.107:5140
 东方卫视,http://220.176.218.76:9000/udp/239.252.219.229:5140
