@@ -1,18 +1,11 @@
 {
-//配置地址： https://ltxxjs.github.io/box2022-1/m2.json2022-1/m2.json2022-1/m2.json2022-1/m2.json
 "spider":"https://gitee.com/wgq332/tvt/raw/master/lib/custom_spider20261107.jar;md5;28692a0f810846d63714f4253a48b9eb",       
-//"spider":"https://raw.giteeusercontent.com/gyjune/jar/raw/master/jar/custom_spider.jar;md5;8aaa83a2f0db2848ede35b8b210360d8",:"https://raw.giteeusercontent.com/gyjune/jar/raw/master/jar/custom_spider.jar;md5;8aaa83a2f0db2848ede35b8b210360d8",
-//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",:"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",:"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-//"蜘蛛":"https://shadowchiu369.github.io/TVBox/jar/sc.jar;md5;1c1482ff646cc40e1f924ebe320822bc","spider":"https://shadowchiu369.github.io/TVBox/jar/sc.jar;md5;1c1482ff646cc40e1f924ebe320822bc",
 
-// 直播
 	"lives": [{
-		"group": "redirect",
-		"channels": [{
-			"name": "live",
+            "name": "live",
+			"type": "0",
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2djcWkvZ2NxaXR2b3gwMS9yYXcvYnJhbmNoL21hc3Rlci90di50eHQ="]
-		}]
-	}],
+	      }],
 "sites": [
 
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXp/huya2.json"},
