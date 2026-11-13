@@ -14,7 +14,7 @@
 		}]
 	}],
 "网站": [
-sp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/ltxxjs/happy/raw/branch/main/TheXP/qiumi.json"},
+
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXp/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐠斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/ltxxjs/Boxforcfsxy/raw/branch/main/BoxXb/douyu.json"},
 {"key":"csp_appysv2_小熊影视","name":"小熊影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xxtv.lanrentk.cc/api.php/iptv/vod/"},
@@ -132,9 +132,6 @@ sp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPat
 {"key":"caiji24","name":"大屌丝㊙","type":0,"api":"http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"caiji25","name":"咪咪㊙","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"caiji26","name":"鲍鱼㊙","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":0,"quickSearch":0},
-
-
-//
 {"key":"myg","name":"Myg资源","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"f2d","name":"f2d采集","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
         { "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
@@ -1214,13 +1211,11 @@ sp_xpath_网络搜集库qiumi","name": "⚽️球迷","type": 3,"api": "csp_XPat
 {"name":"融兴","type":1,"url":"https://svip.rongxingvr.top/api/?key=wuM6hZbINH2KlmHEdY&url="},
 {"name":"LTRX","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["rx"]}},
 {"name":"线路M9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
-//{"name":"优解001","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"Pro2","type":1,"url":"https://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=","ext":{"flag":["ltnb","rx","qiyi","爱奇艺","qq","奇艺","sohu","letv","youku","优酷","mgtv","芒果"]}},
 {"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
 {"name":"renrenmi2","type":1,"url":"https://a.dxzj88.com/jxrrm/jiami.php?url=","ext":{"flag":["renrenmi"]}},
-//{"name":"renrenmi3","type":1,"url":"https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=","ext":{"flag":["renrenmi"]}},
 {"name":"2","type":1,"url":"https://jx.mczdyw.com/xg.php?url=","ext":{"flag":["mgtv","芒果"]}},
 {"name":"3","type":1,"url":"https://www.aiaine.com/api/?key=kVqmG5dAQ5dZTcECw8&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"4","type":1,"url":"https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
