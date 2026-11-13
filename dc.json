@@ -18,10 +18,10 @@
     }
   ],
   "sites": [
-     {"key":"*010爱资源","name":"🔞010爱资源","type":1,"api":"http://www.010aizy.com/API/macs.php","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"*爱操资源","name":"🔞爱操资源","type":1,"api":"https://aicaozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"*水蜜桃","name":"🔞水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"*JAV名优馆","name":"🔞JAV名优馆","type":1,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
+     {"key":"*010爱资源","name":"🔞010爱资源","type":3,"api":"http://www.010aizy.com/API/macs.php","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*爱操资源","name":"🔞爱操资源","type":3,"api":"https://aicaozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*水蜜桃","name":"🔞水蜜桃","type":3,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*JAV名优馆","name":"🔞JAV名优馆","type":3,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
      {"key":"*奶茶资源","name":"🔞奶茶资源","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0,"filterable":0},
      {"key":"dr_瓜皮TV","name":"瓜皮TV","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=瓜皮TV","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*皇冠资源","name":"*皇冠资源🈲","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
