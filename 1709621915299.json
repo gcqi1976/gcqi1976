@@ -2,61 +2,7 @@
 "spider":"https://gitee.com/wgq332/tvt/raw/master/lib/custom_spider20261103.jar;md5;babc305e9dba98594307a368bf8e513e",
     "sites": [
 
-   
-  {
-   "key": "美少女",
-   "name": "少女 | 采集",
-   "type": 0,
-   "api": "https://www.msnii.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "ext": "proxy"
-  },
-
-  {
-   "key": "黄AV资源站",
-   "name": "AV | 采集",
-   "type": 0,
-   "api": "https://www.pgxdy.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "ext": "proxy"
-  },
  
-  {
-   "key": "滴滴",
-   "name": "滴滴 | 采集",
-   "type": 1,
-   "api": "https://api.ddapi.cc/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "proxy"
-  },
-  
-  {
-   "key": "森林专场",
-   "name": "森林 | 采集",
-   "type": 1,
-   "api": "https://slapibf.com/api.php/provide/vod/",
-   "playUrl": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
-  
-  {
-   "key": "嘿嘿场",
-   "name": "嘿嘿 | 采集",
-   "type": 1,
-   "api": "https://api.heiapi.cc/api.php/provide/vod/",
-   "playUrl": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
         {
             "key": "天堂",
             "name": "天堂·影视",
@@ -327,7 +273,61 @@
             "searchable": 1,
             "filterable": 1
         },
+  
+  {
+   "key": "美少女",
+   "name": "少女 | 采集",
+   "type": 0,
+   "api": "https://www.msnii.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "ext": "proxy"
+  },
 
+  {
+   "key": "黄AV资源站",
+   "name": "AV | 采集",
+   "type": 0,
+   "api": "https://www.pgxdy.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "ext": "proxy"
+  },
+ 
+  {
+   "key": "滴滴",
+   "name": "滴滴 | 采集",
+   "type": 1,
+   "api": "https://api.ddapi.cc/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  
+  {
+   "key": "森林专场",
+   "name": "森林 | 采集",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  
+  {
+   "key": "嘿嘿场",
+   "name": "嘿嘿 | 采集",
+   "type": 1,
+   "api": "https://api.heiapi.cc/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
         {
             "key": "KafLive",
             "name": "咖啡·体育",
