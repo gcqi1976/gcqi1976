@@ -2,314 +2,290 @@
 "spider":"https://gitee.com/wgq332/tvt/raw/master/lib/custom_spider20261103.jar;md5;babc305e9dba98594307a368bf8e513e",
     "sites": [
 
-      {
-            "name": "LEO·弹幕",
-            "key": "leo 弹幕",
-            "type": 3,
-            "api": "csp_DanmakuSpider",
-            "searchable": 1,
-            "ext": {
-                "apiUrl": [
-                    "https://danmu.mimiruku.cn/|LogVar公益源",
-                    "https://danmu.zxz.ee/|公共弹幕库",
-                    "https://dmapi.6565n.xyz/87654321|公益源2",
-                    "https://dm.ljiaovm.com/luosen|公益源3",
-                    "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源",
-                    "https://danmu.let.gs/|LogVar",
-                    "https://api.danmu.icu/|DanmuICU",
-                    "https://danmu.longemby.com/|LilyEmby",
-                    "https://fc.lyz05.cn/|lyz05",
-                    "https://dmku.hls.one/|HLS",
-                    "https://dm.199333.xyz/dm",
-                    "https://dmk.abai.ccwu.cc/api/v1/abaibai",
-                    "https://dm.660505.xyz:8443/a123456",
-                    "http://192.168.31.22:9321/87654321",
-                    "https://danmaku.banye.tech:17777/87654321|aaa",
-                    "https://dm.660505.xyz:8443/a123456|W佬公益源"
-                ],
-                "autoPushEnabled": true,
-                "danmakuStyle": "经典模式",
-                "proxyPort": 5575,
-                "lpAlpha": 0.9
-            }
-        }, 
         {
-            "key": "美剧天堂",
-            "name": "美剧·天堂",
-            "type": 3,
-            "api": "csp_Mjtt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "py_采集大王",
-            "name": "📱采集ᵖʸ｜聚合",
-            "type": 3,
-            "api": "https://gitee.com/wgq332/tvt/raw/master/lib/采集之王.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "央视影视",
-            "name": "央视·直播",
-            "type": 3,
-            "api": "csp_Cntv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "py_华数",
-            "name": "华数·APP",
-            "type": 3,
-            "api": "https://gitee.com/wgq332/tvt/raw/master/JS/%E5%8D%8E%E6%95%B0.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "py_剧吧",
-            "name": "剧吧·APP",
-            "type": 3,
-            "api": "https://gitee.com/wgq332/tvt/raw/master/JS/剧爸爸.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-
-        {
-            "key": "py_八零八影库",
-            "name": "八零网·APP",
-            "type": 3,
-            "api": "https://gitee.com/wgq332/tvt/raw/master/JS/八零八.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-
-        {
-            "key": "农民影视",
-            "name": "农民·影视",
-            "type": 3,
-            "api": "csp_nongm",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Ccys",
-            "name": "策驰·影院",
-            "type": 3,
-            "api": "csp_Ccys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.cechiv.com"
-        },
-
-        {
-            "key": "七味",
-            "name": "七味·4K",
-            "type": 3,
-            "api": "csp_Qiwei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 0.68
-            },
-            "ext": "https://www.qwmkv.com",
-            "timeout": 60
-        },
-        {
-            "key": "养生堂",
-            "name": "养生·知识",
-            "type": 3,
-            "api": "csp_Yst",
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
-            "key": " yixiuTV1",
-            "name": "壹秀·影视",
-            "type": 3,
-            "api": "csp_Yixiuwang",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "马猴影视",
-            "name": "马猴·影视",
-            "type": 3,
-            "api": "csp_AppMH",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://45.150.167.18:8000"
-        },
-        {
-            "key": "麦田影视",
-            "name": "麦田·影视",
-            "type": 3,
-            "api": "csp_Mtyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.mtyy1.cc"
-        },
-        {
-            "key": "金牌影视",
-            "name": "金牌·影视",
-            "type": 3,
-            "api": "csp_Gold",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://www.jiabaide.cn,https://www.sizhengxt.com"
-            }
-        },
-        {
-            "key": "韩剧TV",
-            "name": "韩剧·影视",
-            "type": 3,
-            "api": "csp_Hjtv",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "韩剧网TV",
-            "name": "韩剧·网络",
-            "type": 3,
-            "api": "csp_Hjw",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "枫叶",
-            "name": "枫叶·影视",
-            "type": 3,
-            "api": "csp_FengYe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.vip1949.com/"
-        },
-        {
-            "key": "糯米",
-            "name": "糯米·影视",
-            "type": 3,
-            "api": "csp_Wwys",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://vip.wwgz.cn:5200"
-        },
-        {
-            "key": "csp_gz360",
-            "name": "瓜子·影视",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "热播影视",
-            "name": "热播·影视",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
-
-        {
-            "key": "csp_AppXY991",
-            "name": "TVB·影视",
-            "type": 3,
-            "api": "csp_TVBYB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "糯米1",
-            "name": "扫货·影视",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://shdy5.us"
-        },
-        {
-            "key": "文才",
-            "name": "文才·影视",
-            "type": 3,
-            "api": "csp_WenCai",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-        },
-        {
-            "key": "Acfun",
-            "name": "Ac·fun",
-            "type": 3,
-            "api": "csp_Acfun",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1
-        },
-        {
-            "key": "哔哩合集",
-            "name": "哔哩·合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": "https://gitee.com/wgq332/tvt/raw/master/fantaiying/bili_home.json"
-        },
-        {
-            "key": "B站直播",
-            "name": "B站·直播",
-            "type": 3,
-            "api": "csp_BilibiliLive",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0
-        },
+   "key": "zp066",
+   "name": "花椒 | 采集",
+   "type": 0,
+   "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "proxy"
+  },
+  {
+   "key": "大地",
+   "name": "大地 | 采集",
+   "type": 0,
+   "api": "https://dadiapi.com/apple_m3u8.php",
+   "playUrl": "https://play.dadiapi.com/watch?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "proxy"
+  },
+  {
+   "key": "番号",
+   "name": "番号 | 采集",
+   "type": 1,
+   "api": "http://fhapi9.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "proxy"
+  },
+  {
+   "key": "鲨鱼",
+   "name": "鲨鱼 | 采集",
+   "type": 1,
+   "api": "https://shayuapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "易看",
+   "name": "易看 | 采集",
+   "type": 1,
+   "api": "https://api.yikanapi.com/api.php/provide/vod/",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "proxy"
+  },
+  {
+   "key": "性爱",
+   "name": "性爱 | 采集",
+   "type": 1,
+   "api": "https://api.sexnguon.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "美少女",
+   "name": "少女 | 采集",
+   "type": 0,
+   "api": "https://www.msnii.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "小湿妹",
+   "name": "湿妹 | 采集",
+   "type": 0,
+   "api": "http://www.afasu.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "奶茶",
+   "name": "奶茶 | 采集",
+   "type": 0,
+   "api": "https://caiji.naichaapi.com/inc/api.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "辣椒",
+   "name": "辣椒 | 采集",
+   "type": 1,
+   "api": "https://apilj.com/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "黄AV资源站",
+   "name": "AV | 采集",
+   "type": 0,
+   "api": "https://www.pgxdy.com/api/xml.php",
+   "searchable": 1,
+   "quickSearch": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "奶香香",
+   "name": "奶香 | 采集",
+   "type": 1,
+   "api": "https://naixxzy.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "155资源站",
+   "name": "155 | 采集",
+   "type": 1,
+   "api": "https://155api.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "鸡坤",
+   "name": "鸡坤 | 采集",
+   "type": 1,
+   "api": "https://jkunzyapi.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "乐播",
+   "name": "乐播 | 采集",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "滴滴",
+   "name": "滴滴 | 采集",
+   "type": 1,
+   "api": "https://api.ddapi.cc/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "探探",
+   "name": "探探 | 采集",
+   "type": 1,
+   "api": "https://apittzy.com/api.php/provide/vod/",
+   "searchable": 0,
+   "quickSearch": 0,
+   "ext": "proxy"
+  },
+  {
+   "key": "玉兔",
+   "name": "玉兔 | 采集",
+   "type": 1,
+   "api": "https://apiyutu.com/api.php/provide/vod/",
+   "playUrl": "https://yutujx.com/?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "森林专场",
+   "name": "森林 | 采集",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "芒果专场",
+   "name": "芒果 | 采集",
+   "type": 1,
+   "api": "https://mgzyz1.com/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "523专场",
+   "name": "523 | 采集",
+   "type": 1,
+   "api": "https://523zyw.me/inc/apijson_vod.php",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "火速",
+   "name": "火速 | 采集",
+   "type": 1,
+   "api": "https://api.huosuapi.cc/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
+   "key": "嘿嘿场",
+   "name": "嘿嘿 | 采集",
+   "type": 1,
+   "api": "https://api.heiapi.cc/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  }
+ ],
+ "lives": [
+  {
+   "name": "大洋马直播",
+   "type": 0,
+   "url": "./lib/deyzb.m3u",
+   "ua": ""
+  },
+  {
+   "name": "大秀直播",
+   "type": 0,
+   "url": "./lib/dxzb.m3u",
+   "ua": ""
+  },
+  {
+   "name": "欧美直播",
+   "type": 0,
+   "url": "./lib/omzb.m3u",
+   "ua": ""
+  },
+  {
+   "name": "国产系列",
+   "type": 0,
+   "url": "./lib/hsck_gc.m3u",
+   "ua": ""
+  },
+  {
+   "name": "日韩系列",
+   "type": 0,
+   "url": "./lib/hsck_rh.m3u",
+   "ua": ""
+  },
+  {
+   "name": "色播聚合",
+   "type": 0,
+   "url": "./lib/sbjh.m3u",
+   "ua": ""
+  },
+  {
+   "name": "麻豆视频",
+   "type": 0,
+   "url": "./lib/mdsp.m3u",
+   "ua": ""
+  },
+  {
+   "name": "台湾成人",
+   "type": 0,
+   "url": "./lib/rwcr.m3u",
+   "ua": ""
+  },
         {
             "key": "天堂",
             "name": "天堂·影视",
