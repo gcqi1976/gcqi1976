@@ -1,61 +1,61 @@
 {
- "sites": [
+ "站点": [
   {
    "key": "精品资源站",
-   "name": "精品 | 采集",
-   "type": 1,
+   "名称": "精品 | 采集",
+   "类型": 1,
    "api": "https://www.jingpinx.com/api.php/provide/vod/",
-   "ext": "proxy"
+   "ext": "代理"
   },
   {
    "key": "souav",
    "name": "souav | 采集",
-   "type": 1,
+   "类型": 1,
    "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
    "playUrl": "https://jiexi.souavzyw.top/m3u8/?url=",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1
+   "可搜索": 1,
+   "快速搜索": 1,
+   "可筛选": 1
   },
   {
    "key": "py_porn",
    "name": "肉视频[py]",
-   "type": 3,
+   "类型": 3,
    "api": "./js/ss/肉视频.py",
    "ext": ""
   },
   {
    "key": "py_huangguo",
    "name": "黄果短剧[py]",
-   "type": 3,
+   "类型": 3,
    "api": "./js/ss/huangguo.py",
    "ext": ""
   },
   {
    "key": "py_huangdou",
    "name": "黄豆短剧[py]",
-   "type": 3,
+   "类型": 3,
    "api": "./js/ss/huangdou.py",
    "ext": ""
   },
   {
    "key": "py_lsys111",
-   "name": "恋丝影视[py]",
-   "type": 3,
+   "名称": "恋丝影视[py]",
+   "类型": 3,
    "api": "./js/ss/lsys111.py",
    "ext": ""
   },
   {
    "key": "py_rolizxwnoble",
    "name": "乱伦仓库[py]",
-   "type": 3,
+   "类型": 3,
    "api": "./js/ss/rolizxwnoble.py",
    "ext": ""
   },
   {
    "key": "py_shaofu36",
    "name": "少妇喝了[py]",
-   "type": 3,
+   "类型": 3,
    "api": "./js/ss/shaofu36.py",
    "ext": ""
   },
@@ -1332,6 +1332,6 @@
   "mgtv",
   "wasu"
  ],
- "spider": "./pg.jar",
+ "spider": "./jar/sun.jar;md5;d5718c6781a440b2aa526a30e908bd0b",
  "logo": "./img/pg.gif"
 }
