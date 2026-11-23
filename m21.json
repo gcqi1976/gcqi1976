@@ -1,5 +1,5 @@
 ﻿{
-    "spider":"https://agit.ai/gcqi/gcqitvox01/raw/branch/master/Yoursmile.jar",
+    "spider": "./jar/sun.jar;md5;d5718c6781a440b2aa526a30e908bd0b",
 	"wallpaper": "https://raw.iqiq.io/gcqi1976/xbb/main/W-2.png",
 	"lives": [{
 		"group": "redirect",
@@ -8,7 +8,7 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2djcWkvZ2NxaXR2b3gwMS9yYXcvYnJhbmNoL21hc3Rlci90di50eHQ="]
 		}]
 	}],
-"sites": [
+"网站": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
