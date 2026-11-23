@@ -2,67 +2,7 @@
 "spider":"https://gitee.com/wgq332/tvt/raw/master/lib/custom_spider20261103.jar;md5;babc305e9dba98594307a368bf8e513e",
     "sites": [
 
-        {
-   "key": "zp066",
-   "name": "花椒 | 采集",
-   "type": 0,
-   "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "proxy"
-  },
-  {
-   "key": "大地",
-   "name": "大地 | 采集",
-   "type": 0,
-   "api": "https://dadiapi.com/apple_m3u8.php",
-   "playUrl": "https://play.dadiapi.com/watch?url=",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "proxy"
-  },
-  {
-   "key": "番号",
-   "name": "番号 | 采集",
-   "type": 1,
-   "api": "http://fhapi9.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "proxy"
-  },
-  {
-   "key": "鲨鱼",
-   "name": "鲨鱼 | 采集",
-   "type": 1,
-   "api": "https://shayuapi.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "易看",
-   "name": "易看 | 采集",
-   "type": 1,
-   "api": "https://api.yikanapi.com/api.php/provide/vod/",
-   "searchable": 0,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "proxy"
-  },
-  {
-   "key": "性爱",
-   "name": "性爱 | 采集",
-   "type": 1,
-   "api": "https://api.sexnguon.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
+   
   {
    "key": "美少女",
    "name": "少女 | 采集",
@@ -72,36 +12,7 @@
    "quickSearch": 1,
    "ext": "proxy"
   },
-  {
-   "key": "小湿妹",
-   "name": "湿妹 | 采集",
-   "type": 0,
-   "api": "http://www.afasu.com/api/xml.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "奶茶",
-   "name": "奶茶 | 采集",
-   "type": 0,
-   "api": "https://caiji.naichaapi.com/inc/api.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "辣椒",
-   "name": "辣椒 | 采集",
-   "type": 1,
-   "api": "https://apilj.com/api.php/provide/vod/",
-   "playUrl": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
+
   {
    "key": "黄AV资源站",
    "name": "AV | 采集",
@@ -111,46 +22,7 @@
    "quickSearch": 1,
    "ext": "proxy"
   },
-  {
-   "key": "奶香香",
-   "name": "奶香 | 采集",
-   "type": 1,
-   "api": "https://naixxzy.com/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "155资源站",
-   "name": "155 | 采集",
-   "type": 1,
-   "api": "https://155api.com/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "鸡坤",
-   "name": "鸡坤 | 采集",
-   "type": 1,
-   "api": "https://jkunzyapi.com/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "乐播",
-   "name": "乐播 | 采集",
-   "type": 1,
-   "api": "https://lbapi9.com/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "proxy"
-  },
+ 
   {
    "key": "滴滴",
    "name": "滴滴 | 采集",
@@ -161,26 +33,7 @@
    "changeable": 1,
    "ext": "proxy"
   },
-  {
-   "key": "探探",
-   "name": "探探 | 采集",
-   "type": 1,
-   "api": "https://apittzy.com/api.php/provide/vod/",
-   "searchable": 0,
-   "quickSearch": 0,
-   "ext": "proxy"
-  },
-  {
-   "key": "玉兔",
-   "name": "玉兔 | 采集",
-   "type": 1,
-   "api": "https://apiyutu.com/api.php/provide/vod/",
-   "playUrl": "https://yutujx.com/?url=",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
+  
   {
    "key": "森林专场",
    "name": "森林 | 采集",
@@ -192,39 +45,7 @@
    "filterable": 1,
    "ext": "proxy"
   },
-  {
-   "key": "芒果专场",
-   "name": "芒果 | 采集",
-   "type": 1,
-   "api": "https://mgzyz1.com/api.php/provide/vod/",
-   "playUrl": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "523专场",
-   "name": "523 | 采集",
-   "type": 1,
-   "api": "https://523zyw.me/inc/apijson_vod.php",
-   "playUrl": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "火速",
-   "name": "火速 | 采集",
-   "type": 1,
-   "api": "https://api.huosuapi.cc/api.php/provide/vod/",
-   "playUrl": "",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
+  
   {
    "key": "嘿嘿场",
    "name": "嘿嘿 | 采集",
@@ -235,56 +56,6 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "proxy"
-  }
- ],
- "lives": [
-  {
-   "name": "大洋马直播",
-   "type": 0,
-   "url": "./lib/deyzb.m3u",
-   "ua": ""
-  },
-  {
-   "name": "大秀直播",
-   "type": 0,
-   "url": "./lib/dxzb.m3u",
-   "ua": ""
-  },
-  {
-   "name": "欧美直播",
-   "type": 0,
-   "url": "./lib/omzb.m3u",
-   "ua": ""
-  },
-  {
-   "name": "国产系列",
-   "type": 0,
-   "url": "./lib/hsck_gc.m3u",
-   "ua": ""
-  },
-  {
-   "name": "日韩系列",
-   "type": 0,
-   "url": "./lib/hsck_rh.m3u",
-   "ua": ""
-  },
-  {
-   "name": "色播聚合",
-   "type": 0,
-   "url": "./lib/sbjh.m3u",
-   "ua": ""
-  },
-  {
-   "name": "麻豆视频",
-   "type": 0,
-   "url": "./lib/mdsp.m3u",
-   "ua": ""
-  },
-  {
-   "name": "台湾成人",
-   "type": 0,
-   "url": "./lib/rwcr.m3u",
-   "ua": ""
   },
         {
             "key": "天堂",
